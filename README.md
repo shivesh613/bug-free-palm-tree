@@ -14,3 +14,14 @@
     <script src="script.js"></script>
 </body>
 </html>
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    text-align: center;
+    padding-top: 50px;
+}
+h1 {
+    color: #333;
+}
+console.log("Script loaded successfully!");
+alert("Welcome to YOUR NAME project!");
